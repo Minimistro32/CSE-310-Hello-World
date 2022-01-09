@@ -10,7 +10,7 @@ The purpose is to review and demonstrate basic github and python proficiency.
 
 # Development Environment
 
-I used Github and VSCode to finisht this project.
+I used Github and VSCode to finish this project.
 
 All of the programming for this project was done in Python.
 
