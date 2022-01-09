@@ -6,7 +6,7 @@ This project is simply an example project displaying hello world.
 
 The purpose is to review and demonstrate basic github and python proficiency. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/KI65N8Pn7jI)
 
 # Development Environment
 
